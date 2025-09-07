@@ -128,11 +128,13 @@ Now that you understand cash flow, budgeting, and pricing, let's put these conce
 **Timeline**: 2-3 hours
 **Success metrics**: You have a monthly breakdown showing projected cash in, cash out, and your net cash position for each of the next 3-6 months.
 **Example (Conceptual)**:
+```markdown
 | Month       | Projected Cash In (Client Payments) | Projected Cash Out (Expenses) | Net Cash Flow |
 | :---------- | :---------------------------------- | :---------------------------- | :------------ |
 | July 2025   | $10,000                             | $8,000                        | +$2,000       |
 | August 2025 | $25,000                             | $12,000                       | +$13,000      |
 | Sept 2025   | $15,000                             | $10,000                       | +$5,000       |
+```
 **Why this matters for acquisition**: Buyers want to see that your business can sustain itself financially without running out of cash. A clear cash flow projection demonstrates your ability to manage liquidity and anticipate financial needs, making your consultancy a lower-risk acquisition target.
 
 ### Step 3: Develop a Basic Operating Budget
